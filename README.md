@@ -21,6 +21,7 @@ Hi, I'm luojianwen, a golang engineer from China.
 - 🔭 I’m currently working on Huawei
 - 🌱 I’m currently learning Golang,K8s,Docker
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robotLJW&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robotLJW&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
