@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Hi, I'm luojianwen, a golang engineer from China.
 
-- 🔭 I’m currently working on Huawei
 - 🌱 I’m currently learning Golang,K8s,Docker
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robotLJW&show_icons=true&theme=tokyonight)
