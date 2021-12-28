@@ -7,7 +7,7 @@
 <table>
   
 <tr>
-<td valign="top"  width="60%">
+<td valign="top"  width="70%">
 
 #### 💹 [Github Stats](https://github.com/robotLJW)
 
@@ -15,7 +15,7 @@
 
 </td>
   
-<td valign="top"  width="40%">
+<td valign="top"  width="30%">
 
 #### 👀 Follow Me
 
